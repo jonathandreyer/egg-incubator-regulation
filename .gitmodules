@@ -1,0 +1,9 @@
+[submodule "lib/L298"]
+	path = lib/L298
+	url = https://github.com/schmron/L298.git
+[submodule "lib/OLED_Display_128X64"]
+	path = lib/OLED_Display_128X64
+	url = https://github.com/Seeed-Studio/OLED_Display_128X64.git
+[submodule "lib/SHT2x-Arduino-Library"]
+	path = lib/SHT2x-Arduino-Library
+	url = https://github.com/misenso/SHT2x-Arduino-Library.git
